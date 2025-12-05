@@ -11,4 +11,8 @@
         "domain": "namhh.vozdns.vn",
         "publickey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEnFpn4UuAA6hD9G3bTBbk2J36KoC76Rc/nKVzOT7MDq1iqVsNScBRVKDO4Ve7PwKBMEBAEVtEvfaDAR7A6I827Q=="
     }
+    {
+        "domain": "teppihome.vozdns.vn",
+        "publickey": "your-public-key-will-be-generated"
+    }
 ]
